@@ -1,0 +1,15 @@
+c:\Desarrollo\LeerYEscribirArchivoDotnet\bin\Debug\net6.0\LeerYEscribirArchivoDotnet.exe
+c:\Desarrollo\LeerYEscribirArchivoDotnet\bin\Debug\net6.0\LeerYEscribirArchivoDotnet.deps.json
+c:\Desarrollo\LeerYEscribirArchivoDotnet\bin\Debug\net6.0\LeerYEscribirArchivoDotnet.runtimeconfig.json
+c:\Desarrollo\LeerYEscribirArchivoDotnet\bin\Debug\net6.0\LeerYEscribirArchivoDotnet.dll
+c:\Desarrollo\LeerYEscribirArchivoDotnet\bin\Debug\net6.0\LeerYEscribirArchivoDotnet.pdb
+c:\Desarrollo\LeerYEscribirArchivoDotnet\obj\Debug\net6.0\LeerYEscribirArchivoDotnet.csproj.AssemblyReference.cache
+c:\Desarrollo\LeerYEscribirArchivoDotnet\obj\Debug\net6.0\LeerYEscribirArchivoDotnet.GeneratedMSBuildEditorConfig.editorconfig
+c:\Desarrollo\LeerYEscribirArchivoDotnet\obj\Debug\net6.0\LeerYEscribirArchivoDotnet.AssemblyInfoInputs.cache
+c:\Desarrollo\LeerYEscribirArchivoDotnet\obj\Debug\net6.0\LeerYEscribirArchivoDotnet.AssemblyInfo.cs
+c:\Desarrollo\LeerYEscribirArchivoDotnet\obj\Debug\net6.0\LeerYEscribirArchivoDotnet.csproj.CoreCompileInputs.cache
+c:\Desarrollo\LeerYEscribirArchivoDotnet\obj\Debug\net6.0\LeerYEscribirArchivoDotnet.dll
+c:\Desarrollo\LeerYEscribirArchivoDotnet\obj\Debug\net6.0\refint\LeerYEscribirArchivoDotnet.dll
+c:\Desarrollo\LeerYEscribirArchivoDotnet\obj\Debug\net6.0\LeerYEscribirArchivoDotnet.pdb
+c:\Desarrollo\LeerYEscribirArchivoDotnet\obj\Debug\net6.0\LeerYEscribirArchivoDotnet.genruntimeconfig.cache
+c:\Desarrollo\LeerYEscribirArchivoDotnet\obj\Debug\net6.0\ref\LeerYEscribirArchivoDotnet.dll
